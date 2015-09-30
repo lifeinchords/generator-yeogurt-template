@@ -1,3 +1,14 @@
+having trouble with teoria lib: JS lib works inside of code, but not in debugger
+too complex to set up Browserify with each of these lib's quirks
+i want something simple, and quick to prototype staticly
+build system is overkill
+
+
+
+
+
+----------
+
 # Gsap-Studies readme
 
 Generated on 2015-09-27 using
